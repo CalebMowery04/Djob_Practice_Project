@@ -25,6 +25,30 @@
                 <textarea class="w-full mt-2 p-4 rounded-xl bg-gray-100"></textarea>
             </div>
 
+            <div>
+                <label>Salary</label>
+                <input type="text" class="w-full mt-2 p-4 rounded-xl bg-gray-100">
+            </div>
+
+            <div>
+                <label>Company Name</label>
+                <input type="text" class="w-full mt-2 p-4 rounded-xl bg-gray-100">
+            </div>
+
+            <div>
+                <label>Company Location</label>
+                <textarea class="w-full mt-2 p-4 rounded-xl bg-gray-100"></textarea>
+            </div>
+
+            <div>
+                <label>Company e-mail</label>
+                <textarea class="w-full mt-2 p-4 rounded-xl bg-gray-100"></textarea>
+            </div>
+
+
+            <button class="py-4 px-6 bg-teal-700 text-white rounded-xl">Submit</button>
+
+
         </form>
     </div>
 </template>
